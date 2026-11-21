@@ -1,5 +1,7 @@
 # 🗺️ Lugares e eventos que quero visitar
 
+📌 Base: Goiânia (GO)
+
 _Última revisão: 21/11/2026 — itens vencidos são removidos a cada atualização._
 
 ## 📍 Sem data específica (com período de funcionamento)
