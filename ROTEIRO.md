@@ -9,6 +9,7 @@ _Última revisão: 21/11/2026 — itens vencidos são removidos a cada atualiza�
 | O quê | Onde | Funciona até / horários | Observações |
 |---|---|---|---|
 | 🎨 **Exposição "Campos e Cidades"**: 55 telas de artistas goianos (Siron Franco, Roos, Poteiro, Confaloni, Pitágoras, DJ Oliveira, Amaury Menezes, Nonatto, Helder Rocha Lima, Solá, Kleber Gouveia), do acervo do desembargador Itaney Campos | Pinacoteca Des. Camargo Neto, sede do TJGO (Av. Assis Chateaubriand, 195, Setor Oeste, Goiânia; endereço a confirmar) | **Até sex, 04/12/2026** ⏳. Provavelmente só em dias úteis, no horário do tribunal (a confirmar) | Prédio público: talvez peçam documento com foto na entrada. Fonte: post do @jornalopcao |
+| 💵 **"Dinheiro Vivo", de Vik Muniz**: animais das cédulas do real (lobo-guará, garoupa, garça...) | Galeria Leo Romano, Rua 132, nº 503, Setor Sul | **Até janeiro/2027** (dia exato a confirmar). Seg a sex, 9h–18h; sáb, 9h–13h | Entrada gratuita. A galeria também faz aulas e eventos (yoga, pilates) no espaço. Fonte: @galerialeoromano |
 
 ## 📅 Com data específica (já no Google Agenda)
 
