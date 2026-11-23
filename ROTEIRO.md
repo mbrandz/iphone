@@ -2,7 +2,7 @@
 
 📌 Base: Goiânia (GO)
 
-_Última revisão: 21/11/2026 — itens vencidos são removidos a cada atualização._
+_Última revisão: 23/11/2026 — itens vencidos são removidos a cada atualização._
 
 ## 📍 Sem data específica (com período de funcionamento)
 
@@ -15,7 +15,7 @@ _Última revisão: 21/11/2026 — itens vencidos são removidos a cada atualiza�
 
 | Data | O quê | Onde | Observações |
 |---|---|---|---|
-| _(vazio)_ | | | |
+| **Ter, 01/12, 20h** | 🎷 **Natal Jazz Sinfônico**: Orquestra Sinfônica de Goiânia + BPM Jazz (Armstrong, Davis, Sinatra). Maestro Eliseu Ferreira | Teatro Goiânia, Centro | **Entrada: 2 kg de alimentos não perecíveis.** Lembretes no Agenda 1 dia antes e 2h antes |
 
 ## 🍽️ Restaurantes (sem prazo: consultar quando quiser sair)
 
